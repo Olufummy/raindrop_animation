@@ -6,3 +6,4 @@ today saturday 18-11-2023
 still battling on what to do with the project,
 hopefully a breakthrough.
 project that never
+learning python
