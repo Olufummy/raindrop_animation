@@ -7,3 +7,4 @@ hopefully a breakthrough.
 project that never ready yet
 learning python
 day256
+i have about 3 weeks from today to complete one project 
