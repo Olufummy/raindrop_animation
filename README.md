@@ -6,5 +6,5 @@ still battling on what to do with the project,
 hopefully a breakthrough.
 project that never ready yet
 learning python
-day20
+day24
 i have about 3 weeks from today to complete one project 
